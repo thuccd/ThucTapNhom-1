@@ -6,8 +6,12 @@ using System.Web.Mvc;
 
 namespace ThucTapNhomProject.Controllers
 {
-    public class HomeController : Controller
+    public class NhanVienController : Controller
     {
-       
+        // GET: NhanVien
+        public ActionResult Index()
+        {
+            return View();
+        }
     }
 }
