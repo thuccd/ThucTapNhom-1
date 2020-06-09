@@ -1,0 +1,2 @@
+C:\Users\ABC\Desktop\TT\ThucTapNhom\ThucTapNhomProject\obj\Debug\ThucTapNhomProject.csprojAssemblyReference.cache
+C:\Users\ABC\Desktop\TT\ThucTapNhom\ThucTapNhomProject\obj\Debug\ThucTapNhomProject.csproj.CoreCompileInputs.cache
